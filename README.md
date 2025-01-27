@@ -1,6 +1,5 @@
 # Restaurant-analysis-in-Knime
 Restaurant market analysis using Knime based on yelp dataset
-# Restaurant Ratings Analysis
 
 This project explores the factors contributing to high restaurant ratings and provides insights for restaurant owners to improve their reviews. By analyzing restaurant data, this project identifies trends, patterns, and actionable recommendations to enhance customer satisfaction.
 
